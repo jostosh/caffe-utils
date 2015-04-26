@@ -1,7 +1,7 @@
 # caffe-utils
-Additional scripts for caffe
+##Additional scripts for caffe
 
----------- extract_to_txt.cpp ------------
+###extract_to_txt.cpp
 
 This script was made for extracting features from caffe to plain text format or to `libsvm` 
 format. The script can be used as follows:
