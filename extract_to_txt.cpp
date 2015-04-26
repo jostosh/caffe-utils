@@ -37,7 +37,7 @@ int feature_extraction_pipeline(int argc, char** argv)
     if (argc < num_required_args)
     {
         LOG(ERROR) <<
-                      "\nextract_to_csv -- April 2015\n"
+                      "\nextract_to_txt -- April 2015\n"
                       "Edited by: Jos van de Wolfshaar\n"
                       "This program loads a pretrained network and extracts the features to a \n"
                       "text file. To extract to libsvm format call the program with 'libsvm'. For\n"
